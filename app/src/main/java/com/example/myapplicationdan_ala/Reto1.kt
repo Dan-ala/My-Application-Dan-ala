@@ -23,7 +23,7 @@ fun main() {
     println("Total de tres!!")
     } else if (dice1==5 && dice2==6 || dice2==5 && dice1==6){
     println("Total de once")
-    } else if (dice1==2 || dice2==2 && dice1==6 && dice2==6){
+    } else if (dice1==2 || dice2==2 && dice1==6 || dice2==6){
     println("Se obtuvo un dos o un doce")
     } else if(dice1==4 && dice2==3 || dice2==4 && dice1==3){
     println("Total de siete")
