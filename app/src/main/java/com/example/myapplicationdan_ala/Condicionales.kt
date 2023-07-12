@@ -5,7 +5,7 @@ class Condicionales {
 
 
 fun main() {
-   print("Enter the first number: ")
+   /* print("Enter the first number: ")
     var number1:Int= readLine()!!.toInt()
     print("Enter the second number: ")
     var number2:Int = readLine()!!.toInt()
@@ -20,7 +20,7 @@ fun main() {
     }else{
         //False
         print("$number2 is greater than $number1")
-    }
+    }*/
 
     /*print("Enter a number from 1 to 20: ")
     var numberUsu:Int =readLine()!!.toInt()
